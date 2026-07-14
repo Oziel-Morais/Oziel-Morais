@@ -21,9 +21,6 @@ Atuo com modelagem, administração e otimização de bancos de dados, transform
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oziel-Morais&show_icons=true&theme=default)
-
 ### 📫 Como me encontrar
 - E-mail: oziel.moraiis@gmail.com
 
