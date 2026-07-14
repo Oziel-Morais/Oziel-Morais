@@ -20,7 +20,6 @@ Atuo com modelagem, administração e otimização de bancos de dados, transform
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> Ajuste a lista acima para refletir exatamente as tecnologias que você domina.
 
 ### 📊 Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oziel-Morais&show_icons=true&theme=default)
