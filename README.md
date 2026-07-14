@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Oziel Morais 👋
 
-<!--
-**Oziel-Morais/Oziel-Morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Sistemas e Banco de Dados** | Tecnólogo em Gestão da Tecnologia da Informação
 
-Here are some ideas to get you started:
+Atuo com modelagem, administração e otimização de bancos de dados, transformando dados em informação confiável para a tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 O que eu faço
+- Modelagem de dados e criação de estruturas relacionais
+- Escrita e otimização de queries SQL (performance e boas práticas)
+- Análise de sistemas voltada a banco de dados
+- Integridade, consistência e segurança dos dados
+- Processos de ETL e integração entre sistemas
+
+### 🛠️ Tecnologias e ferramentas
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+> Ajuste a lista acima para refletir exatamente as tecnologias que você domina.
+
+### 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oziel-Morais&show_icons=true&theme=default)
+
+### 📫 Como me encontrar
+- E-mail: oziel.moraiis@gmail.com
+
+---
+*Sempre buscando aprender e evoluir na área de dados.*
